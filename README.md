@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I am Luis Santos</h1>
+<h1 align="center">Luis Santos</h1>
 <h3 align="center">I am a Data Science student focused on Financial Markets</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishv551&label=Profile%20views&color=0e75b6&style=flat" alt="luishv551" /> </p>
