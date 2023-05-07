@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Luis Santos</h1>
-<h3 align="center">I am a Data Dcience student focused on Financial Markets</h3>
+<h3 align="center">I am a Data Science student focused on Financial Markets</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luishv551&label=Profile%20views&color=0e75b6&style=flat" alt="luishv551" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luishv551" alt="luishv551" /></a> </p>
+- 🔭 I’m currently working on **Process Automation with Python**
 
-- 🔭 I’m currently working on **Process Automation**
-
-- 🌱 I’m currently learning **Math, Algorithms, Python and SQL**
+- 🌱 I’m currently learning **Math, Algorithms and SQL**
 
 - 👯 I’m looking to collaborate on **Finance Related Projects**
 
