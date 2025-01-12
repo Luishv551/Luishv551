@@ -8,21 +8,32 @@
 - Process Automation & Optimization
 - Quantitative Research
 - Database Architecture & Management
+- Business Intelligence & Data Visualization
 
 ## Current Projects
 - Developing scalable automation solutions for financial data processing
 - Implementing quantitative analysis tools for market research
 - Building robust data pipelines for real-time financial analytics
+- Creating interactive Power BI dashboards for financial reporting
 
 ## Technical Expertise
 ### Development
-- Python (Pandas, Selenium)
+- Python (Libraries & Frameworks):
+  - Data Analysis: Pandas, NumPy, SciPy
+  - Machine Learning: Scikit-learn, TensorFlow, XGBoost
+  - Financial Analysis: yfinance, pandas-ta, QuantStats
+  - Visualization: Matplotlib, Seaborn, Plotly
+  - Web Automation: Selenium, Beautiful Soup
+  - API Integration: Requests, FastAPI
 - SQL
 - C
+- M (Power Query)
+- DAX
 
-### Infrastructure
+### Infrastructure & Tools
 - MySQL
 - Oracle
+- Power BI
 - Data Pipeline Development
 - Automation Frameworks
 
@@ -39,6 +50,11 @@
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="powerbi" width="40" height="40"/> </a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/matplotlib.svg" alt="matplotlib" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luishv551&show_icons=true&locale=en&layout=compact" alt="luishv551" /></p>
