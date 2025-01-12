@@ -19,9 +19,9 @@
 ## Technical Expertise
 ### Development
 - Python (Libraries & Frameworks):
-  - Data Analysis: Pandas, NumPy, SciPy
-  - Machine Learning: Scikit-learn, TensorFlow, XGBoost
-  - Financial Analysis: yfinance, pandas-ta, QuantStats
+  - Data Analysis: Pandas, NumPy
+  - Machine Learning: Scikit-learn
+  - Financial Analysis: yfinance
   - Visualization: Matplotlib, Seaborn, Plotly
   - Web Automation: Selenium, Beautiful Soup
   - API Integration: Requests, FastAPI
