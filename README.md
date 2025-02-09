@@ -31,7 +31,7 @@
 - DAX
 
 ### Infrastructure & Tools
-- MySQL
+- SQL Server
 - Oracle
 - Power BI
 - Data Pipeline Development
