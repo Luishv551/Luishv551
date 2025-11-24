@@ -1,17 +1,11 @@
-<h1 align="center">Luis Santos</h1>
-<h3 align="center">Data Analyst | Data Engineer | Financial Markets</h3>
+<h1 align="left">Luis Santos</h1>
+<h3 align="left">Data Analyst | Data Engineer | Financial Markets</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=luishv551&label=Profile%20views&color=0e75b6&style=flat" alt="luishv551" />
-</p>
-
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/luis-vargas-santos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
-
-<br>
 
 ## Core Competencies
 - Financial Data Analysis & Modeling
@@ -52,4 +46,8 @@
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
   <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=luishv551&label=Profile%20views&color=0e75b6&style=flat" alt="luishv551" />
 </p>
